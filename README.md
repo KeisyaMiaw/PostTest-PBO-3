@@ -1,7 +1,7 @@
 # PostTest-PBO-3
 
 # Deskripsi
-Program ini menerapkan CRUD guna mengelola data kos. Data yang disimpan pada program ini berisi nomor kamar, nama penyewa, status kamar (kosong/terisi), nomor telepon, dan lantai kamar. Prorgram ini menggunakan ArrayList untuk menampung data-data kos. User bisa menambahkan data, melihat data-data, update data, dan juga menghapus data. Dan juga disini saya amenambahkan 1 menu baru yaitu menu search/cari yang guna untuk mencari data dari kos itu. Selanjutnya, pada post test ini saya menambahkan 2 subclass yaitu "KosBulanan" dan "KosTahunan" pada 1 superclass yaitu "Kos"
+Program ini menerapkan CRUD guna mengelola data kos. Data yang disimpan pada program ini berisi nomor kamar, nama penyewa, status kamar (kosong/terisi), nomor telepon, dan lantai kamar. Prorgram ini menggunakan ArrayList untuk menampung data-data kos. User bisa menambahkan data, melihat data-data, update data, dan juga menghapus data. Dan juga disini saya amenambahkan 1 menu baru yaitu menu search/cari yang guna untuk mencari data dari kos itu. Selanjutnya, pada post test ini saya menambahkan 2 subclass yaitu "KosBulanan" dan "KosTahunan" pada 1 superclass yaitu "Kos", dan juga pada tahap ini saya menerapkan getter dan setter serta overriding pada program kos saya ini. Guna dari getter dan setter adalah untuk menjaga keamanan data dari program yang telah saya buat, agar data tersebut tidak bocor ke class lainnya.
 
 # Alur Program
 1. Menu utama ditampilkan
